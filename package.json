@@ -5,7 +5,7 @@
     "description": "Launcher Mincraft pour le serveur PeaceOrWar",
     "main": "src/app.js",
     "author": {
-        "name": "lgx, Inc.",
+        "name": "LGX, Inc.",
         "email": "legiondesgueux@gmail.com",
         "url": "https://github.com/DeaconMarlow"
     },
